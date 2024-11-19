@@ -1,2 +1,2 @@
 # Oxford-Happiness-Questionnaire-Analysis
-This repository showcases an in-depth analysis for the results of surveying a population of goverment workers the Oxford Happiness Questionnaire.
+Este repositorio contiene una demuestración del trabajo realizado para un proyecto que estudia el bien estar mental de una población de individuos, utilizando como métrica el cuestionario de la felicidad de la escuela de Oxford. Este proyecto no contiene información personal de los encuestados, por ende no viola politicas de privacidad ni pone en riesgo la integridad de ningún miembro de la población estudiada.
